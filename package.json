@@ -1,0 +1,14 @@
+{
+  "name": "mwp",
+  "homepage": "https://github.com/PZWulff/mwp",
+  "version": "0.1.0",
+  "description": "Mono Web Publish is a small tool that packages an ASP.NET C# website for deployment like Microsoft Web Deploy",
+  "main": "mwp.js",
+  "author": {
+    "name": "Peter Zinck Wulff"    
+  },
+  "dependencies": {
+    "fs-extra": "^0.26.7",
+    "xml2js": "^0.4.16"
+  }
+}
